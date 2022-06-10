@@ -1,0 +1,17 @@
+.heading {
+    background-color: tan;
+    text-align: center;
+}
+
+.Lasagna, .Chicken, .Salmon {
+    text-align: center;
+    background-color: tan;
+}
+
+.laspic, .chicpic, .salmpic {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
